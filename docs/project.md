@@ -29,6 +29,8 @@ which returns a dataset or makes calls to plot the data on a capable machine.
 list(map(lambda x: y(x), arr))
 
 
+###Adding Environment variables
+https://www.serverlab.ca/tutorials/linux/administration-linux/how-to-set-environment-variables-in-linux/
 
 ### creating new python files with Shebang
 Where shebang = '#!'$(which python)
