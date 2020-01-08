@@ -20,4 +20,23 @@ We have a function y.
 There's a pattern used to generate the data
 
 
+### /dataset.py
+My goal with this file is to pass arbitrary function to dataset.py
+which returns a dataset or makes calls to plot the data on a capable machine.
+
+
+
 list(map(lambda x: y(x), arr))
+
+
+
+### creating new python files with Shebang
+Where shebang = '#!'$(which python)
+
+echo $shebang > <filename.py[, *]>
+
+
+
+
+
+
