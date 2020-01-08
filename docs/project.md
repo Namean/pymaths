@@ -32,6 +32,9 @@ list(map(lambda x: y(x), arr))
 ###Adding Environment variables
 https://www.serverlab.ca/tutorials/linux/administration-linux/how-to-set-environment-variables-in-linux/
 
+###Assigning output of commands to variables
+https://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-bash-assign-variable-command-output/
+
 ### creating new python files with Shebang
 Where shebang = '#!'$(which python)
 
